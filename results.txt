@@ -1,0 +1,229 @@
+--------MAIN EFFECTS---------
+
+
+Average button lag with Valve Brand on 'low': 0.16148750000000006 -- Average button lag with Valve Brand on 'high': 0.16765624999999995      
+Going from 'high' to 'low' Valve Brand decreases button lag by 0.006 +/- 0.002 seconds
+
+-----------------------
+
+Average button lag with Fittings-Manif on 'low': 0.17158125000000007 -- Average button lag with Fittings-Manif on 'high': 0.15756249999999997
+Going from 'high' to 'low' Fittings-Manif increases button lag by 0.014 +/- 0.002 seconds
+
+-----------------------
+
+Average button lag with Hose Dia on 'low': 0.11388125 -- Average button lag with Hose Dia on 'high': 0.21526250000000002
+Going from 'high' to 'low' Hose Dia decreases button lag by 0.101 +/- 0.002 seconds
+
+-----------------------
+
+Average button lag with Hose Len on 'low': 0.14236875 -- Average button lag with Hose Len on 'high': 0.18677500000000002
+Going from 'high' to 'low' Hose Len decreases button lag by 0.044 +/- 0.002 seconds
+
+-----------------------
+
+Average button lag with Fitting-Cyl on 'low': 0.17415000000000003 -- Average button lag with Fitting-Cyl on 'high': 0.15499374999999999      
+Going from 'high' to 'low' Fitting-Cyl increases button lag by 0.019 +/- 0.002 seconds
+
+-----------------------
+
+Average button lag with Cylinder on 'low': 0.16758125000000007 -- Average button lag with Cylinder on 'high': 0.1615625
+Going from 'high' to 'low' Cylinder increases button lag by 0.006 +/- 0.002 seconds
+
+-----------------------
+
+
+
+----------INTERACTIONS-------------
+
+
+Average button lag with Fittings-Manif on the high setting and Valve Brand on the high setting = 0.155
+Average button lag with Fittings-Manif on the high setting and Valve Brand on the low setting = 0.16
+Valve Brand effects Fittings-Manif's effect on button lag by making it 0.005 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand      
+
+-----------------------
+
+Average button lag with Fittings-Manif on the low setting and Valve Brand on the high setting = 0.18
+Average button lag with Fittings-Manif on the low setting and Valve Brand on the low setting = 0.163
+Valve Brand effects Fittings-Manif's effect on button lag by making it 0.017 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand      
+
+-----------------------
+
+Average button lag with Hose Dia on the high setting and Valve Brand on the high setting = 0.215
+Average button lag with Hose Dia on the high setting and Valve Brand on the low setting = 0.216
+Valve Brand effects Hose Dia's effect on button lag by making it 0.001 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+
+Average button lag with Hose Dia on the low setting and Valve Brand on the high setting = 0.12
+Average button lag with Hose Dia on the low setting and Valve Brand on the low setting = 0.107
+Valve Brand effects Hose Dia's effect on button lag by making it 0.013 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+
+Average button lag with Hose Dia on the high setting and Fittings-Manif on the high setting = 0.202
+Average button lag with Hose Dia on the high setting and Fittings-Manif on the low setting = 0.229
+Fittings-Manif effects Hose Dia's effect on button lag by making it 0.027 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif   
+
+-----------------------
+
+Average button lag with Hose Dia on the low setting and Fittings-Manif on the high setting = 0.113
+Average button lag with Hose Dia on the low setting and Fittings-Manif on the low setting = 0.114
+Fittings-Manif effects Hose Dia's effect on button lag by making it 0.001 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif   
+
+-----------------------
+
+Average button lag with Hose Len on the high setting and Valve Brand on the high setting = 0.186
+Average button lag with Hose Len on the high setting and Valve Brand on the low setting = 0.188
+Valve Brand effects Hose Len's effect on button lag by making it 0.002 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+
+Average button lag with Hose Len on the low setting and Valve Brand on the high setting = 0.149
+Average button lag with Hose Len on the low setting and Valve Brand on the low setting = 0.135
+Valve Brand effects Hose Len's effect on button lag by making it 0.014 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+
+Average button lag with Hose Len on the high setting and Fittings-Manif on the high setting = 0.178
+Average button lag with Hose Len on the high setting and Fittings-Manif on the low setting = 0.196
+Fittings-Manif effects Hose Len's effect on button lag by making it 0.018 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif   
+
+-----------------------
+
+Average button lag with Hose Len on the low setting and Fittings-Manif on the high setting = 0.137
+Average button lag with Hose Len on the low setting and Fittings-Manif on the low setting = 0.147
+Fittings-Manif effects Hose Len's effect on button lag by making it 0.01 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif    
+
+-----------------------
+
+Average button lag with Hose Len on the high setting and Hose Dia on the high setting = 0.252
+Average button lag with Hose Len on the high setting and Hose Dia on the low setting = 0.122
+Hose Dia effects Hose Len's effect on button lag by making it 0.13 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+
+Average button lag with Hose Len on the low setting and Hose Dia on the high setting = 0.179
+Average button lag with Hose Len on the low setting and Hose Dia on the low setting = 0.106
+Hose Dia effects Hose Len's effect on button lag by making it 0.073 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+
+Average button lag with Fitting-Cyl on the high setting and Valve Brand on the high setting = 0.161
+Average button lag with Fitting-Cyl on the high setting and Valve Brand on the low setting = 0.149
+Valve Brand effects Fitting-Cyl's effect on button lag by making it 0.012 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+
+Average button lag with Fitting-Cyl on the low setting and Valve Brand on the high setting = 0.174
+Average button lag with Fitting-Cyl on the low setting and Valve Brand on the low setting = 0.174
+Valve Brand effects Fitting-Cyl's effect on button lag by making it 0.0 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+
+Average button lag with Fitting-Cyl on the high setting and Fittings-Manif on the high setting = 0.149
+Average button lag with Fitting-Cyl on the high setting and Fittings-Manif on the low setting = 0.161
+Fittings-Manif effects Fitting-Cyl's effect on button lag by making it 0.012 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+
+Average button lag with Fitting-Cyl on the low setting and Fittings-Manif on the high setting = 0.167
+Average button lag with Fitting-Cyl on the low setting and Fittings-Manif on the low setting = 0.182
+Fittings-Manif effects Fitting-Cyl's effect on button lag by making it 0.015 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+
+Average button lag with Fitting-Cyl on the high setting and Hose Dia on the high setting = 0.208
+Average button lag with Fitting-Cyl on the high setting and Hose Dia on the low setting = 0.102
+Hose Dia effects Fitting-Cyl's effect on button lag by making it 0.106 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+
+Average button lag with Fitting-Cyl on the low setting and Hose Dia on the high setting = 0.223
+Average button lag with Fitting-Cyl on the low setting and Hose Dia on the low setting = 0.126
+Hose Dia effects Fitting-Cyl's effect on button lag by making it 0.097 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+
+Average button lag with Fitting-Cyl on the high setting and Hose Len on the high setting = 0.179
+Average button lag with Fitting-Cyl on the high setting and Hose Len on the low setting = 0.131
+Hose Len effects Fitting-Cyl's effect on button lag by making it 0.048 +/- 0.002 seconds faster, going from 'high' Hose Len to 'low' Hose Len
+
+-----------------------
+
+Average button lag with Fitting-Cyl on the low setting and Hose Len on the high setting = 0.195
+Average button lag with Fitting-Cyl on the low setting and Hose Len on the low setting = 0.154
+Hose Len effects Fitting-Cyl's effect on button lag by making it 0.041 +/- 0.002 seconds faster, going from 'high' Hose Len to 'low' Hose Len
+
+-----------------------
+
+Average button lag with Cylinder on the high setting and Valve Brand on the high setting = 0.169
+Average button lag with Cylinder on the high setting and Valve Brand on the low setting = 0.154
+Valve Brand effects Cylinder's effect on button lag by making it 0.015 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+
+Average button lag with Cylinder on the low setting and Valve Brand on the high setting = 0.166
+Average button lag with Cylinder on the low setting and Valve Brand on the low setting = 0.169
+Valve Brand effects Cylinder's effect on button lag by making it 0.003 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+
+Average button lag with Cylinder on the high setting and Fittings-Manif on the high setting = 0.162
+Average button lag with Cylinder on the high setting and Fittings-Manif on the low setting = 0.161
+Fittings-Manif effects Cylinder's effect on button lag by making it 0.001 +/- 0.002 seconds faster, going from 'high' Fittings-Manif to 'low' Fittings-Manif   
+
+-----------------------
+
+Average button lag with Cylinder on the low setting and Fittings-Manif on the high setting = 0.153
+Average button lag with Cylinder on the low setting and Fittings-Manif on the low setting = 0.182
+Fittings-Manif effects Cylinder's effect on button lag by making it 0.029 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif   
+
+-----------------------
+
+Average button lag with Cylinder on the high setting and Hose Dia on the high setting = 0.215
+Average button lag with Cylinder on the high setting and Hose Dia on the low setting = 0.108
+Hose Dia effects Cylinder's effect on button lag by making it 0.107 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+
+Average button lag with Cylinder on the low setting and Hose Dia on the high setting = 0.216
+Average button lag with Cylinder on the low setting and Hose Dia on the low setting = 0.12
+Hose Dia effects Cylinder's effect on button lag by making it 0.096 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+
+-----------------------
+
+Average button lag with Cylinder on the high setting and Hose Dia on the high setting = 0.215
+Average button lag with Cylinder on the high setting and Hose Dia on the low setting = 0.108
+Hose Dia effects Cylinder's effect on button lag by making it 0.107 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+
+Average button lag with Cylinder on the low setting and Hose Dia on the high setting = 0.216
+Average button lag with Cylinder on the low setting and Hose Dia on the low setting = 0.12
+Hose Dia effects Cylinder's effect on button lag by making it 0.096 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+
+Average button lag with Cylinder on the high setting and Hose Len on the high setting = 0.189
+Average button lag with Cylinder on the high setting and Hose Len on the low setting = 0.134
+Hose Len effects Cylinder's effect on button lag by making it 0.055 +/- 0.002 seconds faster, going from 'high' Hose Len to 'low' Hose Len
+
+-----------------------
+
+Average button lag with Cylinder on the low setting and Hose Len on the high setting = 0.185
+Average button lag with Cylinder on the low setting and Hose Len on the low setting = 0.15
+Hose Len effects Cylinder's effect on button lag by making it 0.035 +/- 0.002 seconds faster, going from 'high' Hose Len to 'low' Hose Len
+
+-----------------------
+
+Average button lag with Cylinder on the high setting and Fitting-Cyl on the high setting = 0.146
+Average button lag with Cylinder on the high setting and Fitting-Cyl on the low setting = 0.178
+Fitting-Cyl effects Cylinder's effect on button lag by making it 0.032 +/- 0.002 seconds slower, going from 'high' Fitting-Cyl to 'low' Fitting-Cyl
+
+-----------------------
+
+Average button lag with Cylinder on the low setting and Fitting-Cyl on the high setting = 0.164
+Average button lag with Cylinder on the low setting and Fitting-Cyl on the low setting = 0.171
+Fitting-Cyl effects Cylinder's effect on button lag by making it 0.007 +/- 0.002 seconds slower, going from 'high' Fitting-Cyl to 'low' Fitting-Cyl
