@@ -1,0 +1,182 @@
+
+
+--------MAIN EFFECTS---------
+
+Average dwell time with Valve Brand on 'low': 0.056 -- Average dwell time with Valve Brand on 'high': 0.056
+Going from 'high' to 'low' Valve Brand decreases dwell time by 0.0 +/- 0.002 seconds
+
+-----------------------
+Average dwell time with Fittings-Manif on 'low': 0.058 -- Average dwell time with Fittings-Manif on 'high': 0.054
+Going from 'high' to 'low' Fittings-Manif increases dwell time by 0.003 +/- 0.002 seconds
+
+-----------------------
+Average dwell time with Hose Dia on 'low': 0.055 -- Average dwell time with Hose Dia on 'high': 0.057
+Going from 'high' to 'low' Hose Dia decreases dwell time by 0.003 +/- 0.002 seconds
+
+-----------------------
+Average dwell time with Hose Len on 'low': 0.055 -- Average dwell time with Hose Len on 'high': 0.057
+Going from 'high' to 'low' Hose Len decreases dwell time by 0.001 +/- 0.002 seconds
+
+-----------------------
+Average dwell time with Fitting-Cyl on 'low': 0.057 -- Average dwell time with Fitting-Cyl on 'high': 0.056
+Going from 'high' to 'low' Fitting-Cyl increases dwell time by 0.001 +/- 0.002 seconds
+
+-----------------------
+Average dwell time with Cylinder on 'low': 0.04 -- Average dwell time with Cylinder on 'high': 0.072
+Going from 'high' to 'low' Cylinder decreases dwell time by 0.032 +/- 0.002 seconds
+
+-----------------------
+
+
+----------INTERACTIONS-------------
+
+Average dwell time with Fittings-Manif on the high setting and Valve Brand on the high setting = 0.057
+Average dwell time with Fittings-Manif on the high setting and Valve Brand on the low setting = 0.052
+Valve Brand effects Fittings-Manif's effect on dwell time by making it 0.005 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Fittings-Manif on the low setting and Valve Brand on the high setting = 0.055
+Average dwell time with Fittings-Manif on the low setting and Valve Brand on the low setting = 0.06
+Valve Brand effects Fittings-Manif's effect on dwell time by making it 0.005 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Hose Dia on the high setting and Valve Brand on the high setting = 0.057
+Average dwell time with Hose Dia on the high setting and Valve Brand on the low setting = 0.058
+Valve Brand effects Hose Dia's effect on dwell time by making it 0.001 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Hose Dia on the low setting and Valve Brand on the high setting = 0.055
+Average dwell time with Hose Dia on the low setting and Valve Brand on the low setting = 0.054
+Valve Brand effects Hose Dia's effect on dwell time by making it 0.001 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Hose Dia on the high setting and Fittings-Manif on the high setting = 0.054
+Average dwell time with Hose Dia on the high setting and Fittings-Manif on the low setting = 0.061
+Fittings-Manif effects Hose Dia's effect on dwell time by making it 0.007 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+Average dwell time with Hose Dia on the low setting and Fittings-Manif on the high setting = 0.055
+Average dwell time with Hose Dia on the low setting and Fittings-Manif on the low setting = 0.054
+Fittings-Manif effects Hose Dia's effect on dwell time by making it 0.001 +/- 0.002 seconds faster, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+Average dwell time with Hose Len on the high setting and Valve Brand on the high setting = 0.056
+Average dwell time with Hose Len on the high setting and Valve Brand on the low setting = 0.057
+Valve Brand effects Hose Len's effect on dwell time by making it 0.001 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Hose Len on the low setting and Valve Brand on the high setting = 0.056
+Average dwell time with Hose Len on the low setting and Valve Brand on the low setting = 0.055
+Valve Brand effects Hose Len's effect on dwell time by making it 0.001 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Hose Len on the high setting and Fittings-Manif on the high setting = 0.055
+Average dwell time with Hose Len on the high setting and Fittings-Manif on the low setting = 0.058
+Fittings-Manif effects Hose Len's effect on dwell time by making it 0.003 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+Average dwell time with Hose Len on the low setting and Fittings-Manif on the high setting = 0.054
+Average dwell time with Hose Len on the low setting and Fittings-Manif on the low setting = 0.057
+Fittings-Manif effects Hose Len's effect on dwell time by making it 0.003 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+Average dwell time with Hose Len on the high setting and Hose Dia on the high setting = 0.057
+Average dwell time with Hose Len on the high setting and Hose Dia on the low setting = 0.056
+Hose Dia effects Hose Len's effect on dwell time by making it 0.001 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+Average dwell time with Hose Len on the low setting and Hose Dia on the high setting = 0.058
+Average dwell time with Hose Len on the low setting and Hose Dia on the low setting = 0.053
+Hose Dia effects Hose Len's effect on dwell time by making it 0.005 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+Average dwell time with Fitting-Cyl on the high setting and Valve Brand on the high setting = 0.056
+Average dwell time with Fitting-Cyl on the high setting and Valve Brand on the low setting = 0.055
+Valve Brand effects Fitting-Cyl's effect on dwell time by making it 0.001 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Fitting-Cyl on the low setting and Valve Brand on the high setting = 0.056
+Average dwell time with Fitting-Cyl on the low setting and Valve Brand on the low setting = 0.057
+Valve Brand effects Fitting-Cyl's effect on dwell time by making it 0.001 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Fitting-Cyl on the high setting and Fittings-Manif on the high setting = 0.055
+Average dwell time with Fitting-Cyl on the high setting and Fittings-Manif on the low setting = 0.056
+Fittings-Manif effects Fitting-Cyl's effect on dwell time by making it 0.001 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+Average dwell time with Fitting-Cyl on the low setting and Fittings-Manif on the high setting = 0.054
+Average dwell time with Fitting-Cyl on the low setting and Fittings-Manif on the low setting = 0.059
+Fittings-Manif effects Fitting-Cyl's effect on dwell time by making it 0.005 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+Average dwell time with Fitting-Cyl on the high setting and Hose Dia on the high setting = 0.056
+Average dwell time with Fitting-Cyl on the high setting and Hose Dia on the low setting = 0.055
+Hose Dia effects Fitting-Cyl's effect on dwell time by making it 0.001 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+Average dwell time with Fitting-Cyl on the low setting and Hose Dia on the high setting = 0.059
+Average dwell time with Fitting-Cyl on the low setting and Hose Dia on the low setting = 0.054
+Hose Dia effects Fitting-Cyl's effect on dwell time by making it 0.005 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+Average dwell time with Fitting-Cyl on the high setting and Hose Len on the high setting = 0.056
+Average dwell time with Fitting-Cyl on the high setting and Hose Len on the low setting = 0.055
+Hose Len effects Fitting-Cyl's effect on dwell time by making it 0.001 +/- 0.002 seconds faster, going from 'high' Hose Len to 'low' Hose Len
+
+-----------------------
+Average dwell time with Fitting-Cyl on the low setting and Hose Len on the high setting = 0.057
+Average dwell time with Fitting-Cyl on the low setting and Hose Len on the low setting = 0.056
+Hose Len effects Fitting-Cyl's effect on dwell time by making it 0.001 +/- 0.002 seconds faster, going from 'high' Hose Len to 'low' Hose Len
+
+-----------------------
+Average dwell time with Cylinder on the high setting and Valve Brand on the high setting = 0.073
+Average dwell time with Cylinder on the high setting and Valve Brand on the low setting = 0.071
+Valve Brand effects Cylinder's effect on dwell time by making it 0.002 +/- 0.002 seconds faster, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Cylinder on the low setting and Valve Brand on the high setting = 0.04
+Average dwell time with Cylinder on the low setting and Valve Brand on the low setting = 0.041
+Valve Brand effects Cylinder's effect on dwell time by making it 0.001 +/- 0.002 seconds slower, going from 'high' Valve Brand to 'low' Valve Brand
+
+-----------------------
+Average dwell time with Cylinder on the high setting and Fittings-Manif on the high setting = 0.069
+Average dwell time with Cylinder on the high setting and Fittings-Manif on the low setting = 0.075
+Fittings-Manif effects Cylinder's effect on dwell time by making it 0.006 +/- 0.002 seconds slower, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+Average dwell time with Cylinder on the low setting and Fittings-Manif on the high setting = 0.04
+Average dwell time with Cylinder on the low setting and Fittings-Manif on the low setting = 0.04
+Fittings-Manif effects Cylinder's effect on dwell time by making it 0.0 +/- 0.002 seconds faster, going from 'high' Fittings-Manif to 'low' Fittings-Manif
+
+-----------------------
+Average dwell time with Cylinder on the high setting and Hose Dia on the high setting = 0.078
+Average dwell time with Cylinder on the high setting and Hose Dia on the low setting = 0.066
+Hose Dia effects Cylinder's effect on dwell time by making it 0.012 +/- 0.002 seconds faster, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+Average dwell time with Cylinder on the low setting and Hose Dia on the high setting = 0.037
+Average dwell time with Cylinder on the low setting and Hose Dia on the low setting = 0.043
+Hose Dia effects Cylinder's effect on dwell time by making it 0.006 +/- 0.002 seconds slower, going from 'high' Hose Dia to 'low' Hose Dia
+
+-----------------------
+Average dwell time with Cylinder on the high setting and Hose Len on the high setting = 0.074
+Average dwell time with Cylinder on the high setting and Hose Len on the low setting = 0.07
+Hose Len effects Cylinder's effect on dwell time by making it 0.004 +/- 0.002 seconds faster, going from 'high' Hose Len to 'low' Hose Len
+
+-----------------------
+Average dwell time with Cylinder on the low setting and Hose Len on the high setting = 0.04
+Average dwell time with Cylinder on the low setting and Hose Len on the low setting = 0.041
+Hose Len effects Cylinder's effect on dwell time by making it 0.001 +/- 0.002 seconds slower, going from 'high' Hose Len to 'low' Hose Len
+
+-----------------------
+Average dwell time with Cylinder on the high setting and Fitting-Cyl on the high setting = 0.073
+Average dwell time with Cylinder on the high setting and Fitting-Cyl on the low setting = 0.071
+Fitting-Cyl effects Cylinder's effect on dwell time by making it 0.002 +/- 0.002 seconds faster, going from 'high' Fitting-Cyl to 'low' Fitting-Cyl
+
+-----------------------
+Average dwell time with Cylinder on the low setting and Fitting-Cyl on the high setting = 0.038
+Average dwell time with Cylinder on the low setting and Fitting-Cyl on the low setting = 0.042
+Fitting-Cyl effects Cylinder's effect on dwell time by making it 0.004 +/- 0.002 seconds slower, going from 'high' Fitting-Cyl to 'low' Fitting-Cyl
+
+-----------------------
