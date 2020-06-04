@@ -2,7 +2,7 @@ import random
 from openpyxl import Workbook
 import json
 
-# https://www.itl.nist.gov/div898/handbook/pri/section3/pri3347.htm
+
 def main():
     input("Warning: This will delete the previous TestingOrder.xlsx file. Stop this program now (ctrl+c) and rename the old TestingOrder.xlsx file if you would like to save its contents. Press ENTER to continue.")
     wb = Workbook()
